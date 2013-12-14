@@ -13,6 +13,8 @@ import edu.wpi.first.wpilibj.RobotDrive;
 import edu.wpi.first.wpilibj.SimpleRobot;
 import edu.wpi.first.wpilibj.Timer;
 
+// This is a new version of the comment #1 for testing git
+
 /**
  * The VM is configured to automatically run this class, and to call the
  * functions corresponding to each mode, as described in the SimpleRobot
@@ -46,6 +48,9 @@ public class RobotTemplate extends SimpleRobot {
             Timer.delay(0.01);
         }
     }
+    
+// This is a new version of the comment #2 for testing git
+
     /**
      * This function is called once each time the robot enters test mode.
      */
